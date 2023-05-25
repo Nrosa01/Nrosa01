@@ -7,3 +7,6 @@ Hi! I'm a game dev student and also and also an artist. This profile is currentl
 - [itch.io](https://rioni.itch.io/)
 
 I don't currently have more medias I use actively
+
+For code projects just check my repos, they are mostly public simple games, little tools and websites. 
+I also took part in the creation a gaem engine called [Aegis](https://github.com/Proyecto3Grupo02/Aegis/tree/main)
