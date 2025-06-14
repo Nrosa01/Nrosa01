@@ -4,7 +4,7 @@
 
 **`Game Developer (2D/3D/Gameplay Design)`**
 
-I'm a self-taught game developer who also studied at a university. I'm fascinated by technology and I love both programming and designing. I focus on performant and scalable code that's abstract enough to work with comfortably but not too abstract for it to be hard to understand. I enjoy working with small or big teams and learning from those who are better than me.
+I'm a game developer that usually gets lost in tool making. I'm fascinated by technology and I love both programming and designing, I also do art as a hobby! I focus on performant and scalable code that's abstract enough to work with comfortably but not too abstract for it to be hard to understand. I enjoy working with small or big teams and learning from those who are better than me. About games, it depends on when you ask me, but for me a game must have either a good story or a crazy gameplay. What "crazy" means for me is complex, I leave it as an exercise to the reader.
 
 ### 🧰 Languages and Tools
 
